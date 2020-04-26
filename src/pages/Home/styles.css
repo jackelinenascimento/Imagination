@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main p{
+    font-size: 20px;
+}
